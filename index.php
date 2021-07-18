@@ -31,7 +31,7 @@
         <div class="col-md-6" style="margin-top:20px; margin-bottom:20px;">
           <form>
             <div class="form-group">
-              <input type="text" class="form-control" name="cityname" id="city" placeholder="Search Stocks"> 
+              <input type="text" class="form-control" name="cityname" id="city" placeholder="Search Stocksgg"> 
               <div id="citylist"></div>
               <p></p>
               <div id="detail"></div>
@@ -42,6 +42,7 @@
     </div>
   </body>
 </html>
+
 
 <!--- Autocomplete textbox jquery ajax --->
 <script type="text/javascript">
@@ -95,3 +96,36 @@ $(document).on('click','li',function(){
 
 
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
